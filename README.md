@@ -1,1 +1,3 @@
-# Testing Simple Examples of the fhEVM Zama library and Solidity
+# Exploring fhEVM
+Starting point:
+"https://docs.zama.ai/fhevm/getting-started/first_smart_contract"
